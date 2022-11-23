@@ -5,7 +5,7 @@
     <classes>
       <class name="tagrail.TestingOne">
         <methods>
-          <include name="clockMobility"/>
+          <include name="infinitiOfElpaso"/>
           <include name="startBrowser"/>
         </methods>
       </class> <!-- tagrail.TestingOne -->
